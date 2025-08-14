@@ -1,3 +1,5 @@
+import utils.transport
+import utils.session
 import os # Make sure to import 'os' at the top of your file
 import tkinter as tk
 from tkinter import simpledialog, scrolledtext, messagebox
